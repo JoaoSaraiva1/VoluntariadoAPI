@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5924ea59-48d6-4e04-8fed-a9e12962ddbb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/voluntariadoAPI",
+    "appService.deploySubpath": "."
+}
